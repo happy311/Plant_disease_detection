@@ -1,0 +1,12 @@
+Apple__Apple_scab
+Apple__Black_rot
+Apple__Cedar_apple_rust
+Apple__healthy
+No_leaf
+Peach__Bacterial_spot
+Peach_healthy
+Pepper_bell_Bacterial_spot
+Pepper_bell_healthy
+Strawberry__Lead_scorch
+Strawberry__healthy
+

@@ -3,4 +3,4 @@
 -- the model folder also contains the models --
 -- the plantVillage contains dataset --
 -- Plant Care contains the android studio files (can be opened in android studio) 
-**Plant Care/app/release here the file.apk is executable file**
+**the file.apk which is android executable file is present in Plant Care/app/release**
